@@ -1,6 +1,6 @@
 # Slitherit
 Slither is a classic arcade-style game where the player controls a snake that grows longer as it eats food.
-Sure, here's the README file format for the Slither game:
+This is deployed both as website and app,feel free to check them out
 
 # Slither Game
 
